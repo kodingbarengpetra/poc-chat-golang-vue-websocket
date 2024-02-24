@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/kodingbarengpetra/poc-chat-golang-vue-websocket/backend/generated"
-	"github.com/labstack/echo/middleware"
 	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo/v4/middleware"
 )
 
 func main() {
